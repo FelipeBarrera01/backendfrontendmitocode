@@ -1,0 +1,1 @@
+export const CHANGE_STATE_ALERT = "CHANGE_STATE_ALERT";
